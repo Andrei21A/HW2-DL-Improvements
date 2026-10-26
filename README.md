@@ -1,3 +1,7 @@
+#HW2 - Best Accuracy notebook
+https://www.kaggle.com/code/aneaandrei/dl-genai-2026-fii-competition-2-baseline?scriptVersionId=360732107
+
+
 # HW2 – Deep Learning Improvements
 
 Image classification with VGG13 on a 100-class, 32×32 dataset (500 training images per class), trained on Kaggle with **2× T4 GPUs** under a **25-minute** limit.
